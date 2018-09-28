@@ -13,7 +13,7 @@ public class NweTest {
 			WebDriver dir = new FirefoxDriver();
 
 			dir.get("http://demo.automationtesting.in/FileUpload.html");
-
+//status
 	  }
 
 }
